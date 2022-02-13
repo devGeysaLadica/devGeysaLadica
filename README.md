@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @devGeysaLadica
 - I love technological solutions.
-- I'm currently learning React. But I also like Java!
+- I'm currently learning React and Java!
 - I am passionate about astronomy and learning a little about everything.
 - 📫 Reach me on my linkedin: https://www.linkedin.com/in/geysa-ladica/
 
